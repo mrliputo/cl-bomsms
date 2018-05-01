@@ -32,7 +32,7 @@
 <html>
    <body>
    
-      <form action = "http://www.sbsseh.com/cek/sms/jdid.php" method = "GET">
+      <form action = "https://nabila-tools.000webhostapp.com/api/jdid.php" method = "GET">
          Phone no: <input type = "number" name = "no" />
 
          <input type = "submit" />
